@@ -9,7 +9,8 @@ I'm eager to collaborate on interesting projects, contribute to open source, and
 
 Connect with me:
 
-[Your LinkedIn profile URL] (I have a memory that you shared this with me on 2025-01-23.)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benno_h87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benhickton) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/benno87twitch) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/benhick87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@benno87) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ben.hickton@gmail.com) 
+
 Happy coding! 🚀
 
 
@@ -34,9 +35,6 @@ Sources and related content
 [![](https://visitcount.itsvg.in/api?id=bhick33&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bennoh87) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/benhickton) 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benno_h87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benhickton) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/benno87twitch) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/benhick87) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@benno87) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ben.hickton@gmail.com) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bennoh87) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/benhickton)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
