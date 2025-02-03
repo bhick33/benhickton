@@ -1,7 +1,7 @@
-# 💫 Hello, I'm Ben!
+# 💫 About Me
 Hi everyone! 👋
 
-I'm a QA professional with many years of experience under my belt, and I'm now excitedly diving into the world of software development!  My journey started with automating tests using Python (Pytest to be exact!), and I'm loving the challenge of building things.
+My name is Ben, I'm a QA professional with many years of experience under my belt, and I'm now excitedly diving into the world of software development!  My journey started with automating tests using Python (Pytest to be exact!), and I'm loving the challenge of building things.
 
 Right now, I'm exploring a variety of areas like web and game development, so you might see a bit of everything in my repositories. It's all part of the learning process! 😄
 
